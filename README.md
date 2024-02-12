@@ -1,1 +1,3 @@
-# cs7641
+- Download all the files on the repo https://github.com/luizlf/cs7641
+- Install the required packages through 'pip install requirements.txt'
+- Run the jupyter notebook
